@@ -39,7 +39,7 @@ body.light .date
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: #091921 url(images/clock.png);
+	background: #091921 url(clock.png);
 	background-size: cover;
 	border: 10px solid #091921;
 	border-radius: 50%;
@@ -50,7 +50,7 @@ body.light .date
 }
 body.light .clock
 {
-	background: #d1dae3 url(images/clock.png);
+	background: #d1dae3 url(clock.png);
 	background-size: cover;
 	border: 10px solid #cad3dc;
 	box-shadow: -8px -8px 15px rgba(255,255,255,0.05),
